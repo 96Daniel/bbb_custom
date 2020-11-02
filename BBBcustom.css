@@ -1,13 +1,13 @@
-:root{
-  --loader-bg:#fff!important;
+:root {
+  --loader-bg:#000;
 }
 
-.overlay--1aTlbi{
-  background-color:#fffimportant;
+.overlay--1aTlbi {
+  background-color:#000!important;
 }
 
-body{
-  background-color:#fffimportant;
+body {
+  background-color:#000!important;
 }
 
 .primary--1IbqAO{
